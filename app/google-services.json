@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1007035068553",
+    "firebase_url": "https://led-fetch-api-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "led-fetch-api",
+    "storage_bucket": "led-fetch-api.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007035068553:android:ff867fb166278687a85658",
+        "android_client_info": {
+          "package_name": "com.example.led"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmiIyvczgfuRm-w-IjWZMBQNT1NvRHDUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007035068553:android:df07820c43965627a85658",
+        "android_client_info": {
+          "package_name": "com.example.led_fetch_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmiIyvczgfuRm-w-IjWZMBQNT1NvRHDUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
